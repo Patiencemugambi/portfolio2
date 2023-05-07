@@ -28,7 +28,7 @@ align-items: center;
 }
 .image img{
     border-radius: 25%;
-    width: 50;
+    width: 30;
 }
 .image{
 width: 30%;
@@ -39,4 +39,8 @@ justify-content: center;
     width: 60%;
     display: flex;
     justify-content: left;
+}
+
+.body{
+background-image: /home/moringa/Documents/Portfolio2;
 }
