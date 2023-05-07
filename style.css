@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#h1 {
+    font-family: "Autour One";
+    font-size: 48px;
+}
+*{
+    color: rgb(white, white, white);
+}
+body{
+    font-family: 'Autour One';
+    background-color: #8458B3;
+    background-image: linear-gradient(to bottom right,#A0D2EB,#8458B3,#494D5F);
+}
