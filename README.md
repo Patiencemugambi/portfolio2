@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I am Patience Mugambi</h1>
 <h3 align="center">Passionate developer.</h3>
 Installation. <br>
-To view the webpage open the portfolio2 <a href:"https://patiencemugambi.github.io/portfolio2/">Portfolio2</a> on your browser.<br>
+To view the webpage(Portfolio2) open the https://patiencemugambi.github.io/portfolio2/ on your browser.<br>
 Usage<br>
 The webpage is designed to showcase a portfolio of a web designer. It provides contact details and the designer's previous projects.<br>
 License<br>
