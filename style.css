@@ -16,9 +16,9 @@ h2{
 body{
     font-family: 'monospace';
     font-size: 20px;
-    color: aliceblue;
+    color: ;
     background-color: #080808;
-    background-image: linear-gradient(to bottom right,#0b0208,#0e0c10, #480e48);
+    background-image: linear-gradient(to bottom right,#000000,#12010d, #310123, #340334);
 }
 .contactdetails{
     display: inline-flex;
@@ -31,6 +31,7 @@ body{
 display: flex;
 justify-content: space-around;
 align-items: center;
+
 }
 .image img{
     border-radius: 25%;
@@ -41,10 +42,12 @@ width: 40%;
 display: flex;
 justify-content: center;
 }
-.intoduction{
+.Intoduction{
     width: 60%;
     display: flex;
     justify-content: left;
+    color: white;
+
 }
 #contactdetails{
     color: darkorange;
@@ -58,7 +61,23 @@ justify-content: left;
     display: flex;
     justify-content: left;
 }
-#h2{
+h2{
     color: darkorange;
+}
+h3{
+    color: white;
  
+}
+p{
+    color: white;
+ 
+}
+
+ul{
+    color: white;
+
+}
+.Getintouch{
+    color: white;
+
 }
