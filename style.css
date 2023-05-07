@@ -2,17 +2,23 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-#h1 {
-    font-family: "Autour One";
-    font-size: 48px;
+h1 {
+    font-family: monospace;
+    font-size: 100px;
+    color: darkorange;
 }
-*{
-    color: rgb(white, white, white);
+h2{
+    font-family: monospace;
+    font-size: 50px;
+    color: aliceblue;
 }
+
 body{
-    font-family: 'Autour One';
-    background-color: #8458B3;
-    background-image: linear-gradient(to bottom right,#A0D2EB,#8458B3,#494D5F);
+    font-family: 'monospace';
+    font-size: 20px;
+    color: aliceblue;
+    background-color: #080808;
+    background-image: linear-gradient(to bottom right,#312e30,#0e0c10, #0f0f10);
 }
 .contactdetails{
     display: inline-flex;
@@ -28,10 +34,10 @@ align-items: center;
 }
 .image img{
     border-radius: 25%;
-    width: 30;
+    width: 70%;
 }
 .image{
-width: 30%;
+width: 40%;
 display: flex;
 justify-content: center;
 }
@@ -40,7 +46,11 @@ justify-content: center;
     display: flex;
     justify-content: left;
 }
-
-.body{
-background-image: /home/moringa/Documents/Portfolio2;
+#contactdetails{
+    color: darkorange;
+}
+.Projects{
+    max-width: min-content;
+    display: table-caption;
+justify-content: left;
 }
