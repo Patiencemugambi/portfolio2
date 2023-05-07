@@ -6,4 +6,4 @@ Usage<br>
 The webpage is designed to showcase a portfolio of a web designer. It provides contact details and the designer's previous projects.<br>
 License<br>
 This project was licensed under the [MIT License](LICENSE)
-.![This is the link to my sketch](https://user-images.githubusercontent.com/70891536/236698346-cc4e4b0e-5a51-473c-a4b2-df88f35dcc48.jpg)
+[This is the link to my sketch](https://user-images.githubusercontent.com/70891536/236698346-cc4e4b0e-5a51-473c-a4b2-df88f35dcc48.jpg)
