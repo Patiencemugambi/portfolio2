@@ -1,7 +1,6 @@
 nav{
     display: flex;
     justify-content: space-between;
-    align-items: center;
 }
 #h1 {
     font-family: "Autour One";
@@ -14,4 +13,30 @@ body{
     font-family: 'Autour One';
     background-color: #8458B3;
     background-image: linear-gradient(to bottom right,#A0D2EB,#8458B3,#494D5F);
+}
+.contactdetails{
+    display: inline-flex;
+}
+.contactdetails li{
+    list-style:none;
+    padding: 1rem;
+}
+.Aboutme{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.image img{
+    border-radius: 25%;
+    width: 50;
+}
+.image{
+width: 30%;
+display: flex;
+justify-content: center;
+}
+.intoduction{
+    width: 60%;
+    display: flex;
+    justify-content: left;
 }
