@@ -50,12 +50,15 @@ justify-content: center;
     color: darkorange;
 }
 .Projects{
-    max-width: min-content;
-    display: table-caption;
+    display: flex;
 justify-content: left;
-list-style-type: none;
 
 }
-.ul{
-    list-style-type: none;
+.description2{
+    display: flex;
+    justify-content: left;
+}
+#h2{
+    color: darkorange;
+ 
 }
