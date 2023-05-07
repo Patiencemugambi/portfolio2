@@ -18,7 +18,7 @@ body{
     font-size: 20px;
     color: aliceblue;
     background-color: #080808;
-    background-image: linear-gradient(to bottom right,#312e30,#0e0c10, #0f0f10);
+    background-image: linear-gradient(to bottom right,#0b0208,#0e0c10, #480e48);
 }
 .contactdetails{
     display: inline-flex;
@@ -53,4 +53,9 @@ justify-content: center;
     max-width: min-content;
     display: table-caption;
 justify-content: left;
+list-style-type: none;
+
+}
+.ul{
+    list-style-type: none;
 }
