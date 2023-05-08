@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I am Patience Mugambi</h1>
-<h3 align="center">Passionate developer.</h3>
+<h3 align="center">Portfolio.</h3>
 Installation. <br>
 To view the webpage (Week1project) open this link: https://patiencemugambi.github.io/portfolio2/ on your browser.<br>
 Usage<br>
