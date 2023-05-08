@@ -1,7 +1,4 @@
-nav{
-    display: flex;
-    justify-content: space-between;
-}
+
 h1 {
     font-family: monospace;
     font-size: 100px;
@@ -15,17 +12,17 @@ h2{
 
 body{
     font-family: 'monospace';
-    font-size: ;
-    color: ;
     background-color: #080808;
     background-image: linear-gradient(to bottom right,#000000,#12010d, #310123, #6e0f6e);
 }
 .contactdetails{
-    display: inline-flex;
-}
-.contactdetails li{
-    list-style:none;
-    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 50px;
+    margin-left: 300px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .Aboutme{
 display: flex;
@@ -49,9 +46,6 @@ justify-content: center;
     justify-content: left;
     color: white;
 
-}
-#contactdetails{
-    color: darkorange;
 }
 .Projects{
     display: flex;
@@ -84,6 +78,10 @@ ul{
 }
 .Getintouch{
     color: white;
+    margin-top: px;
+    text-align: center;
+    height: 450px;
+    width: 100%;
 
 }
 .sample{
@@ -95,4 +93,25 @@ justify-content: end;
     display: flex;
     align-items: center;
 text-align: center;
+}
+.row{
+    height: 450px;
+    width: 100%;
+}
+input{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    margin-top: 6px;
+    margin-bottom: 16px;
+
+}
+textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid black;
+    margin-top: 6px;
+    margin-bottom: 16px;
+
+
 }
