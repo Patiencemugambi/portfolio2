@@ -18,7 +18,7 @@ body{
     font-size: ;
     color: ;
     background-color: #080808;
-    background-image: linear-gradient(to bottom right,#000000,#12010d, #310123, #340334);
+    background-image: linear-gradient(to bottom right,#000000,#12010d, #310123, #6e0f6e);
 }
 .contactdetails{
     display: inline-flex;
@@ -85,4 +85,14 @@ ul{
 .Getintouch{
     color: white;
 
+}
+.sample{
+display: flex;
+justify-content: end;
+}
+.table{
+    color: white;
+    display: flex;
+    align-items: center;
+text-align: center;
 }
