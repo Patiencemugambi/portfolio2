@@ -1,4 +1,5 @@
 
+
 h1 {
     font-family: monospace;
     font-size: 100px;
@@ -13,7 +14,7 @@ h2{
 body{
     font-family: 'monospace';
     background-color: #080808;
-    background-image: linear-gradient(to bottom right,#000000,#12010d, #310123, #6e0f6e);
+    background-image: linear-gradient(to bottom right,#000000,#24021a, #310123, #6e0f6e);
 }
 .contactdetails{
     display: flex;
@@ -78,10 +79,10 @@ ul{
 }
 .Getintouch{
     color: white;
-    margin-top: px;
+    margin-left: 400px;
     text-align: center;
     height: 450px;
-    width: 100%;
+    width: 50%;
 
 }
 .sample{
@@ -99,7 +100,7 @@ text-align: center;
     width: 100%;
 }
 input{
-    width: 100%;
+    width: 80%;
     padding: 12px;
     border: 1px solid black;
     margin-top: 6px;
@@ -107,11 +108,9 @@ input{
 
 }
 textarea{
-    width: 100%;
+    width: 80%;
     padding: 12px;
     border: 1px solid black;
-    margin-top: 6px;
+    margin-top: 8px;
     margin-bottom: 16px;
-
-
 }
